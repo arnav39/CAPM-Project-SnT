@@ -2,8 +2,8 @@
 
 - CAPM  describes the relationship between risk and expected return 
 - It is built on the earlier work on diversification and modern portfolio theory.
-- In simple words, the idea behind CAPM is that investors need to compensate in two ways: time value of money and risk.
-- It basically establishes a linear relationship between asset expected return and its beta.
+- In simple words, the idea behind CAPM is that investors must compensate in two ways: time value of money and risk.
+- It establishes a linear relationship between the asset's expected return and its beta.
 
 
 # CAPM equation : 
@@ -11,7 +11,7 @@
 
 # Reading Material for CAPM: 
 
-- [CAPM](https://en.wikipedia.org/wiki/Capital_asset_pricing_model](https://www.investopedia.com/terms/c/capm.asp)
+- [CAPM](https://www.investopedia.com/terms/c/capm.asp)
 - [SML](https://en.wikipedia.org/wiki/Security_market_line)
 - [Linear Regression](https://www.investopedia.com/terms/r/regression.asp)
 - [R-sq](https://www.investopedia.com/terms/r/r-squared.asp#:~:text=R%2Dsquared%20(R2),variables%20in%20a%20regression%20model)
